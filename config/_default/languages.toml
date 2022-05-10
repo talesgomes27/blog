@@ -1,0 +1,15 @@
+
+[pt-br]
+title = "Tales Gomes"
+description = "Engenheiro da Computação | Analista de dados | Ciêntista de dados"
+contentDir = "content/pt-br" 
+weight = 1 
+anguageName = "pt-br"
+
+
+
+#[en]
+#title = "My blog"
+#weight = 2
+#LanguageName = "EN"
+#contentDir = "content/english"
